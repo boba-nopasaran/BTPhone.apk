@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ブルートゥース電話</string>
+    <string name="btset">ブルートゥース設定</string>
+    <string name="btname">私の名前：</string>
+    <string name="conndev">ブルートゥースの状態：</string>
+    <string name="rename">名前を変更します</string>
+    <string name="ok">確認</string>
+    <string name="cancel">キャンセル</string>
+    <string name="none">無</string>
+    <string name="audiomode">音声モード：</string>
+    <string name="auto">自動</string>
+    <string name="using8k">8k</string>
+    <string name="using16k">16k</string>
+    <string name="resync">連絡先を同期します</string>
+    <string name="calllog">通話履歴</string>
+    <string name="dialing">発呼中</string>
+    <string name="clearlog">クリア</string>
+    <string name="out">↗</string>
+    <string name="in">↙</string>
+    <string name="inactive">端末が切断されて、通話の機能が制限されます！</string>
+    <string name="active">接続できました</string>
+    <string name="dialpad">ダイヤルパッド</string>
+    <string name="contacts">電話帳</string>
+    <string name="setting">設定</string>
+    <string name="prompt">%s を検索して接続するために、あなたの携帯を使用してください。</string>
+    <string name="repair">再ペアリング：</string>
+    <string name="start">クリックして開始</string>
+    <string name="syncontacts">連絡先同期中</string>
+    <string name="syncerr">連絡先の同期に失敗しました。後でもう一度お試しください。あるいはもう一度スマフォン端末を接続して、連絡先を共有する権限を確認してください！</string>
+</resources>

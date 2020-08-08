@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Telefono Bluetooth</string>
+    <string name="btset">Impostazioni Bluetooth</string>
+    <string name="btname">Nome mio:</string>
+    <string name="conndev">Stato Bluetooth:</string>
+    <string name="rename">Rinomina</string>
+    <string name="ok">Conferma</string>
+    <string name="cancel">Annulla</string>
+    <string name="none">Nulla</string>
+    <string name="audiomode">Modalità audio:</string>
+    <string name="auto">Automatico</string>
+    <string name="using8k">8k</string>
+    <string name="using16k">16k</string>
+    <string name="resync">Sincronizza contatti</string>
+    <string name="calllog">Record di chiamate</string>
+    <string name="dialing">Chiama in corso ...</string>
+    <string name="clearlog">Svuota</string>
+    <string name="out">↗</string>
+    <string name="in">↙</string>
+    <string name="inactive">Dispositivo è scollegato, la funzione di chiamata è disabilitata!</string>
+    <string name="active">Connesso con successo</string>
+    <string name="dialpad">Tastierino</string>
+    <string name="contacts">Elenco telefonico</string>
+    <string name="setting">Impostazioni</string>
+    <string name="prompt">Ricerca con cellulare e connetti %s .</string>
+    <string name="repair">Accoppia di nuovo :</string>
+    <string name="start">Clicca su inizia</string>
+    <string name="syncontacts">Sta sincronizzando contatti</string>
+    <string name="syncerr">Sincronizzazione di contatti fallita, riprova più tardi o riconnetti e conferma che il cellulare è autorizzato a condividere i contatti!</string>
+</resources>

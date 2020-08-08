@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="btset">Paramètres Bluetooth</string>
+    <string name="btname">Nom:</string>
+    <string name="conndev">État Bluetooth:</string>
+    <string name="rename">Renommez</string>
+    <string name="ok">Confirmez</string>
+    <string name="cancel">Annuler</string>
+    <string name="none">Aucun</string>
+    <string name="audiomode">Mode audio:</string>
+    <string name="auto">Automatique</string>
+    <string name="using8k">8k</string>
+    <string name="using16k">16k</string>
+    <string name="resync">Synchronisation des contacts</string>
+    <string name="calllog">Historique des appels</string>
+    <string name="dialing">Numérotation...</string>
+    <string name="clearlog">Videz</string>
+    <string name="out">↗</string>
+    <string name="in">↙</string>
+    <string name="inactive">"L'appareil est déconnecté, la fonction d'Appel est désactivée!"</string>
+    <string name="active">Connexion réussie</string>
+    <string name="dialpad">Numéroteur</string>
+    <string name="contacts">Annuaire téléphonique</string>
+    <string name="setting">Configuration</string>
+    <string name="prompt">Veuillez utiliser votre téléphone portable pour rechercher et connecter%s.</string>
+    <string name="repair">Appareillage:</string>
+    <string name="start">Cliquez pour démarrer</string>
+    <string name="syncontacts">Synchronisation des contacts en cours</string>
+    <string name="syncerr">Échec de synchronisation des contacts, réessayez plus tard ou reconnectez-vous et confirmez que le téléphone autorise le partage des contacts!</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="btset">Setari Bluetooth</string>
+    <string name="btname">Nume:</string>
+    <string name="conndev">Stare Bluetooth:</string>
+    <string name="rename">Redenumire Bluetooth</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Renuntare</string>
+    <string name="none">Nu</string>
+    <string name="audiomode">Mod Audio:</string>
+    <string name="auto">Auto</string>
+    <string name="using8k">8k</string>
+    <string name="using16k">16k</string>
+    <string name="resync">Sincronizare contacte</string>
+    <string name="calllog">Apelare</string>
+    <string name="dialing">Apeleaza acum...</string>
+    <string name="clearlog">Curatare</string>
+    <string name="out">↗</string>
+    <string name="in">↙</string>
+    <string name="inactive">Aparatul este deconectat și funcția de apel este dezactivată!</string>
+    <string name="active">Conectat</string>
+    <string name="dialpad">tastatura</string>
+    <string name="contacts">Contacte</string>
+    <string name="setting">Setari BT</string>
+    <string name="prompt">Utilizați telefonul pentru a căuta %s și conectați-l.</string>
+    <string name="repair">Resetare imperechere</string>
+    <string name="start">click pentru a porni</string>
+    <string name="syncontacts">Contactele sunt incarcate</string>
+    <string name="syncerr">Incarcare contacte esuata, incercati mai tarziu sau asigurati-va ca ati dat acces la contactele din telefonul dumneavoastra!</string>
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="num4">4</string>
+    <string name="num5">5</string>
+    <string name="num6">6</string>
+    <string name="num7">7</string>
+    <string name="num8">8</string>
+    <string name="num9">9</string>
+    <string name="numstar">*</string>
+    <string name="num0">" 0+"</string>
+    <string name="numpound">\#</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="btset">Bluetooth</string>
+    <string name="btname">Nazwa:</string>
+    <string name="conndev">Status Bluetooth:</string>
+    <string name="rename">Zmiana nazwy</string>
+    <string name="ok">zatwierdź</string>
+    <string name="cancel">anuluj</string>
+    <string name="none">Niepołączony</string>
+    <string name="audiomode">tryb dźwięku:</string>
+    <string name="auto">automatyczny</string>
+    <string name="using8k">8k</string>
+    <string name="using16k">16k</string>
+    <string name="resync">synchronizować Kontakt</string>
+    <string name="calllog">Spis połączeń</string>
+    <string name="dialing">wybieranie...</string>
+    <string name="clearlog">Wyczyść</string>
+    <string name="out">↗</string>
+    <string name="in">↙</string>
+    <string name="inactive">Urządzenie jest odłączone, funkcja połączenia jest Włączona！</string>
+    <string name="active">połączenie nawiązane</string>
+    <string name="dialpad">Przyciski</string>
+    <string name="contacts">Książka telefoniczna</string>
+    <string name="setting">Ustawienia</string>
+    <string name="prompt">Proszę użyć wyszukiwania mobilnego i połączyć%s。</string>
+    <string name="repair">Ponowne parowanie:</string>
+    <string name="start">Kliknij Start</string>
+    <string name="syncontacts">Synchronizacja kontaktów</string>
+    <string name="syncerr">Synchronizować kontakty powiodło się, spróbuj ponownie lub podłącz i potwierdzić bok telefonu może udostępniać kontakty później!</string>
+</resources>

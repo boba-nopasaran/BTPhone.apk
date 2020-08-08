@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/records_board" android:background="@drawable/rightbg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:paddingBottom="3.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+        <TextView android:textSize="25.0sp" android:textColor="#ffffffff" android:gravity="center" android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/calllog" android:layout_weight="1.0" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <LinearLayout android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.1" />
+            <Button android:textColor="#ffffffff" android:id="@id/clear" android:background="@drawable/btn_selector" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="2.0dip" android:text="@string/clearlog" />
+            <LinearLayout android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.1" />
+        </LinearLayout>
+    </LinearLayout>
+    <ImageView android:id="@id/imageView1" android:layout_width="fill_parent" android:layout_height="1.0dip" android:src="@drawable/listline" android:scaleType="fitXY" />
+    <ListView android:id="@id/loglist" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="@drawable/listline" android:dividerHeight="1.0dip" />
+</LinearLayout>

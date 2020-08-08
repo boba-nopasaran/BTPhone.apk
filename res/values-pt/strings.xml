@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BTPhone</string>
+    <string name="btset">BTPhone</string>
+    <string name="btname">Meu Nome:</string>
+    <string name="conndev">Estado de Bluetooth</string>
+    <string name="rename">Renomear My Bluetooth</string>
+    <string name="ok">ok</string>
+    <string name="cancel">Cancelar</string>
+    <string name="none">Nenhum</string>
+    <string name="audiomode">Modo de áudio:</string>
+    <string name="auto">Auto</string>
+    <string name="using8k">8k</string>
+    <string name="using16k">16k</string>
+    <string name="resync">Sincronizar contatos</string>
+    <string name="calllog">Call Log</string>
+    <string name="dialing">Discagem agora ...</string>
+    <string name="clearlog">Livre</string>
+    <string name="out">↗</string>
+    <string name="in">↙</string>
+    <string name="inactive">Desconectado. Funções de chamada desactivado!</string>
+    <string name="active">Conectado</string>
+    <string name="dialpad">Teclado</string>
+    <string name="contacts">contactos</string>
+    <string name="setting">Configuração</string>
+    <string name="prompt">favor, use seu telefone para pesquisar %s e ligá-lo.</string>
+    <string name="repair">Reiniciar emparelhamento</string>
+    <string name="start">Clique para iniciar</string>
+    <string name="syncontacts">Contatos está atualizando</string>
+    <string name="syncerr">Atualizando contatos falhou, por favor tente novamente mais tarde ou que a ligá-lo e certifique-se de compartilhamento de contatos está ativada a partir do seu telemóvel!</string>
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="num4">4</string>
+    <string name="num5">5</string>
+    <string name="num6">6</string>
+    <string name="num7">7</string>
+    <string name="num8">8</string>
+    <string name="num9">9</string>
+    <string name="numstar">*</string>
+    <string name="num0">" 0+"</string>
+    <string name="numpound">\#</string>
+</resources>

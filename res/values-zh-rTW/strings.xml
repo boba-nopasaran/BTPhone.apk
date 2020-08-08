@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">藍牙電話</string>
+    <string name="btset">藍牙設置</string>
+    <string name="btname">我的名稱:</string>
+    <string name="conndev">藍牙狀態:</string>
+    <string name="rename">重命名</string>
+    <string name="ok">確定</string>
+    <string name="cancel">取消</string>
+    <string name="none">無</string>
+    <string name="audiomode">音頻模式:</string>
+    <string name="auto">自動</string>
+    <string name="using8k">8k</string>
+    <string name="using16k">16k</string>
+    <string name="resync">同步聯系人</string>
+    <string name="calllog">通話記錄</string>
+    <string name="dialing">正在撥號...</string>
+    <string name="clearlog">清空</string>
+    <string name="out">↗</string>
+    <string name="in">↙</string>
+    <string name="inactive">設備斷開，通話功能禁用！</string>
+    <string name="active">連接成功</string>
+    <string name="dialpad">撥號盤</string>
+    <string name="contacts">電話簿</string>
+    <string name="setting">設置</string>
+    <string name="prompt">請用手機搜索並連接%s。</string>
+    <string name="repair">重新配對 :</string>
+    <string name="start">點擊開始</string>
+    <string name="syncontacts">正在同步聯系人</string>
+    <string name="syncerr">同步聯系人失敗，請稍後重試或者重新連接並確認手機端是否允許共享聯系人!</string>
+    <string name="notwork">FM模式下不能使用通话功能</string>
+</resources>

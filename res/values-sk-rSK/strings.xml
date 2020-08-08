@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="btset">Nastavenia</string>
+    <string name="btname">Názov Bluetooth:</string>
+    <string name="conndev">Spojenie Bluetooth:</string>
+    <string name="rename">Premenovať</string>
+    <string name="ok">ok</string>
+    <string name="cancel">Zrušenie</string>
+    <string name="none">Nie</string>
+    <string name="audiomode">Režim Audio:</string>
+    <string name="auto">Automaticky</string>
+    <string name="using8k">8k</string>
+    <string name="using16k">16k</string>
+    <string name="resync">Synchronizácia kontaktov</string>
+    <string name="calllog">Protokol</string>
+    <string name="dialing">Vytáčanie čísla...</string>
+    <string name="clearlog">Prázdny</string>
+    <string name="out">Odchádzajúce hovory</string>
+    <string name="in">Prichádzajúce hovory</string>
+    <string name="inactive">Prístroj je vypnutý, funkcia hovoru nedostupná!</string>
+    <string name="active">Aktívne spojenie</string>
+    <string name="dialpad">Klávesnica</string>
+    <string name="contacts">Kontakty</string>
+    <string name="setting">Nastavenia</string>
+    <string name="prompt">Použite režim vyhľadávania v mobile, aby ste sa pripojili k %s.</string>
+    <string name="repair">Pripojiť :</string>
+    <string name="start">Stlačte tlačidlo Štart</string>
+    <string name="syncontacts">Synchronizácia kontaktov</string>
+    <string name="syncerr">Synchronizácia kontaktov zlyhala, skúste znova alebo pripojte mobil a potvrďte, povoliť výmenu kontaktov!</string>
+</resources>

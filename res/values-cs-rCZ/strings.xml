@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BT-Telefon</string>
+    <string name="btset">Nastavení</string>
+    <string name="btname">Moje jméno:</string>
+    <string name="conndev">Stav bluetooth:</string>
+    <string name="rename">Změnit jméno bluetooth</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Zrušit</string>
+    <string name="none">Žádné</string>
+    <string name="audiomode">Audio mód:</string>
+    <string name="auto">Auto</string>
+    <string name="using8k">8k</string>
+    <string name="using16k">16k</string>
+    <string name="resync">Synchronizovat kontakty</string>
+    <string name="calllog">Rejstřík hovorú</string>
+    <string name="dialing">Spojuji..</string>
+    <string name="clearlog">Vymazat</string>
+    <string name="out">↗</string>
+    <string name="in">↙</string>
+    <string name="inactive">Odpojen. Funkce volání jsou deaktivovány!</string>
+    <string name="active">Pripojeno</string>
+    <string name="dialpad">Číselník</string>
+    <string name="contacts">Kontakty</string>
+    <string name="setting">Nastavení</string>
+    <string name="prompt">Použijte telefon k vyhledávání %s a připojte jej.</string>
+    <string name="repair">Opětovné párování</string>
+    <string name="start">Klikněte na tlačítko Start</string>
+    <string name="syncontacts">Kontakty se aktualizují</string>
+    <string name="syncerr">Aktualizace kontaktů se nezdařila. Zkuste to prosím znovu později, nebo jej znovu připojte, abyste se ujistili, že je v telefonu povoleno sdílení kontaktů!</string>
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="num4">4</string>
+    <string name="num5">5</string>
+    <string name="num6">6</string>
+    <string name="num7">7</string>
+    <string name="num8">8</string>
+    <string name="num9">9</string>
+    <string name="numstar">*</string>
+    <string name="num0">" 0+"</string>
+    <string name="numpound">\#</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BTPhone</string>
+    <string name="btset">Bluetooth Ayarı</string>
+    <string name="btname">Benim Adım:</string>
+    <string name="conndev">Bluetooth Durumu:</string>
+    <string name="rename">"Bluetooth'umun adını değiştirin"</string>
+    <string name="ok">Tamam</string>
+    <string name="cancel">İptal</string>
+    <string name="none">Hiçbiri</string>
+    <string name="audiomode">Ses Modu:</string>
+    <string name="auto">Otomatik</string>
+    <string name="using8k">8k</string>
+    <string name="using16k">16k</string>
+    <string name="resync">Kişileri Eşitle</string>
+    <string name="calllog">Çağrı Günlüğü</string>
+    <string name="dialing">Şimdi çevir ...</string>
+    <string name="clearlog">Temizle</string>
+    <string name="out">↗</string>
+    <string name="in">↙</string>
+    <string name="inactive">Bağlantı kesildi. Çağrı işlevleri devre dışı!</string>
+    <string name="active">Bağlı</string>
+    <string name="dialpad">Dialpad</string>
+    <string name="contacts">Kişiler</string>
+    <string name="setting">Ayar</string>
+    <string name="prompt">Lütfen telefonunuzu%s aramada kullanın ve bağlayın.</string>
+    <string name="repair">Eşleştirme Sıfırla</string>
+    <string name="start">Başlamak için tıklayın</string>
+    <string name="syncontacts">Kişiler güncelleniyor</string>
+    <string name="syncerr">Kişiler güncellenemedi, lütfen daha sonra tekrar deneyin veya yeniden bağlayın ve rehber paylaşımının telefonunuzdan etkinleştirildiğinden emin olun!</string>
+</resources>

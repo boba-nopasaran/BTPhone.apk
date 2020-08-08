@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">هاتف بلوتوث</string>
+    <string name="btset">إعدادات البلوتوث</string>
+    <string name="btname">اسمي:</string>
+    <string name="conndev">وضع بلوتوث:</string>
+    <string name="rename">إعادة تسمية</string>
+    <string name="ok">حدد</string>
+    <string name="cancel">الغاء</string>
+    <string name="none">لا</string>
+    <string name="audiomode">وضع الصوت:</string>
+    <string name="auto">تلقائي</string>
+    <string name="using8k">8k</string>
+    <string name="using16k">16k</string>
+    <string name="resync">مزامنة جهات الاتصال</string>
+    <string name="calllog">سجلات المكالمات</string>
+    <string name="dialing">الاتصال...</string>
+    <string name="clearlog">واضح</string>
+    <string name="out">↗</string>
+    <string name="in">↙</string>
+    <string name="inactive">يتم قطع الجهاز، يتم تعطيل وظيفة مكالمة!</string>
+    <string name="active">كان الاتصال ناجحا</string>
+    <string name="dialpad">لوحة اتصال</string>
+    <string name="contacts">دليل الهاتف</string>
+    <string name="setting">اعداد</string>
+    <string name="prompt">الرجاء استخدام البحث عبر الهاتف المتحرك والاتصال إلى٪ s.</string>
+    <string name="repair">اعادة الربط:</string>
+    <string name="start">انقر فوق ابدأ</string>
+    <string name="syncontacts">مزامنة جهات الاتصال</string>
+    <string name="syncerr">فشلت مزامنة جهات الاتصال، يرجى المحاولة مرة أخرى أو إعادة الهاتف وتأكيد ما إذا كان العميل يسمح للتبادل من الاتصالات في وقت لاحق!</string>
+</resources>

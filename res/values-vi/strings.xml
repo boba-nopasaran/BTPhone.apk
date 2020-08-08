@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ĐT bluetooth</string>
+    <string name="btset">Cài đặt</string>
+    <string name="btname">Tên BT:</string>
+    <string name="conndev">Trạng thái:</string>
+    <string name="rename">Đổi tên</string>
+    <string name="ok">Đồng ý</string>
+    <string name="cancel">Hủy</string>
+    <string name="none">Không có</string>
+    <string name="audiomode">Chế độ âm thanh:</string>
+    <string name="auto">Tự động</string>
+    <string name="using8k">8k</string>
+    <string name="using16k">16k</string>
+    <string name="resync">Đồng bộ danh bạ</string>
+    <string name="calllog">Nhật ký</string>
+    <string name="dialing">Đang quay số...</string>
+    <string name="clearlog">Xóa</string>
+    <string name="out">↗</string>
+    <string name="in">↙</string>
+    <string name="inactive">Đã ngắt kết nối. Các chức năng cuộc gọi bị vô hiệu!</string>
+    <string name="active">Đã kết nối</string>
+    <string name="dialpad">Bàn phím</string>
+    <string name="contacts">Liên hệ</string>
+    <string name="setting">Cài đặt</string>
+    <string name="prompt">Vui lòng sử dụng điện thoại của bạn để tìm kiếm %s và kết nối.</string>
+    <string name="repair">Kết nối lại</string>
+    <string name="start">Chạm để bắt đầu</string>
+    <string name="syncontacts">Danh bạ đang được cập nhật</string>
+    <string name="syncerr">Cập nhật danh bạ không thành công, vui lòng kết nối và thử lại!</string>
+</resources>

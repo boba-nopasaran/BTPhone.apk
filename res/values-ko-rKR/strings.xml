@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">불루투스전화</string>
+    <string name="btset">불루투스설정</string>
+    <string name="btname">내 이름:</string>
+    <string name="conndev">불루투스상태:</string>
+    <string name="rename">이름바꾸기</string>
+    <string name="ok">확정</string>
+    <string name="cancel">취소</string>
+    <string name="none">무</string>
+    <string name="audiomode">오디오모드:</string>
+    <string name="auto">자동</string>
+    <string name="using8k">8k</string>
+    <string name="using16k">16k</string>
+    <string name="resync">연계인 동기화</string>
+    <string name="calllog">통화기록</string>
+    <string name="dialing">통화연결중...</string>
+    <string name="clearlog">비우기</string>
+    <string name="out">↗</string>
+    <string name="in">↙</string>
+    <string name="inactive">설비와의 연결이 중단되었음.통화기능 사용금지！</string>
+    <string name="active">연결성공</string>
+    <string name="dialpad">번호판</string>
+    <string name="contacts">전화부</string>
+    <string name="setting">설정</string>
+    <string name="prompt">핸드폰으로 검색하여 %s와 연결해주세요</string>
+    <string name="repair">새로 페어링 :</string>
+    <string name="start">클릭하여 시작</string>
+    <string name="syncontacts">연계인 동기화중</string>
+    <string name="syncerr">연계인동기화 실패，재시도 또는 새로 연결함과 동시에 모바일버전상 연계인공유가 가능한지 확인해주세요!</string>
+</resources>

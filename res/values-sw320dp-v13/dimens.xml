@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="numname_size">28.0dip</dimen>
+    <dimen name="dialpanel_text_size">28.0sp</dimen>
+    <dimen name="num_size">28.0sp</dimen>
+    <dimen name="chronometer_size">14.0dip</dimen>
+</resources>

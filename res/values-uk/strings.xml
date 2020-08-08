@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="btset">Налаштування</string>
+    <string name="btname">"Ім'я пристрою Bluetooth:"</string>
+    <string name="conndev">Статус Bluetooth:</string>
+    <string name="rename">Перейменувати</string>
+    <string name="ok">Так</string>
+    <string name="cancel">Відміна</string>
+    <string name="none">Ні</string>
+    <string name="audiomode">Аудіорежим:</string>
+    <string name="auto">Автоматично</string>
+    <string name="using8k">8k</string>
+    <string name="using16k">16k</string>
+    <string name="resync">Синхронізація контактів</string>
+    <string name="calllog">Протокол</string>
+    <string name="dialing">Набір номеру...</string>
+    <string name="clearlog">Очистити</string>
+    <string name="out">Вихідні</string>
+    <string name="in">Вхідні</string>
+    <string name="inactive">Пристрій вимкнено, функція виклику деактивована</string>
+    <string name="active">"Під'єднано"</string>
+    <string name="dialpad">Номеронабирач</string>
+    <string name="contacts">Контакти</string>
+    <string name="setting">Налаштування</string>
+    <string name="prompt">"Будь ласка, використовуйте пошук на мобільному прострої, для під'єднання до %s."</string>
+    <string name="repair">"Перепід'єднатись :"</string>
+    <string name="start">Натисніть кнопку Старт</string>
+    <string name="syncontacts">Синхронізація контактів</string>
+    <string name="syncerr">"Не синхронізовано контакти, спробуйте ще раз або під'єднайте телефон та надайте дозвіл на обмін контактами!"</string>
+</resources>

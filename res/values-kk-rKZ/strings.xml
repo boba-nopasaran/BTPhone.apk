@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BT телефон</string>
+    <string name="btset">BT параметрлері</string>
+    <string name="btname">Менің атым:</string>
+    <string name="conndev">BT мәртебесі:</string>
+    <string name="rename">Атын өзгерту</string>
+    <string name="ok">анықтау</string>
+    <string name="cancel">болдырылмады</string>
+    <string name="none">ештеңе</string>
+    <string name="audiomode">аудио режимі:</string>
+    <string name="auto">автоматтық</string>
+    <string name="using8k">8k</string>
+    <string name="using16k">16k</string>
+    <string name="resync">контактілерді қадамдастыру</string>
+    <string name="calllog">жазбаларды Call</string>
+    <string name="dialing">Теру...</string>
+    <string name="clearlog">айқын</string>
+    <string name="out">↗</string>
+    <string name="in">↙</string>
+    <string name="inactive">құрылғы ажыратылған，Мүгедектер функцияларды қоңырау шалу！</string>
+    <string name="active">қосылым сәтті</string>
+    <string name="dialpad">Теру тақтасы</string>
+    <string name="contacts">Телефон кітапшасы</string>
+    <string name="setting">параметрлері</string>
+    <string name="prompt">пайдалану Телефон Іздеу және қосылу%s。</string>
+    <string name="repair">Re-жұбы :</string>
+    <string name="start">Бастау түймешігін басып</string>
+    <string name="syncontacts">ма контактілерді қадамдастыру</string>
+    <string name="syncerr">контактілерді қадамдастыру Fail，өтінемін Кейінірек қайталап көріңіз!</string>
+</resources>

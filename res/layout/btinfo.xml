@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/bt_info_board" android:background="@drawable/rightbg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false" android:layout_weight="5.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="2.0">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.2" />
+            <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="25.0sp" android:gravity="center" android:layout_width="fill_parent" android:layout_height="0.0dip" android:text="@string/btset" android:layout_weight="1.0" />
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.2" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.5" />
+            <LinearLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.5" />
+        </LinearLayout>
+    </LinearLayout>
+    <ImageView android:id="@id/imageView1" android:layout_width="fill_parent" android:layout_height="1.0dip" android:src="@drawable/listline" android:scaleType="fitXY" />
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:gravity="center" android:layout_gravity="center" android:id="@id/textView3" android:paddingLeft="10.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/conndev" android:layout_weight="1.0" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:gravity="center" android:layout_gravity="center" android:id="@id/connectedev" android:paddingLeft="10.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+        <LinearLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.5">
+            <ImageButton android:layout_gravity="center" android:id="@id/onoff" android:background="#00000000" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/on" />
+        </LinearLayout>
+    </LinearLayout>
+    <ImageView android:id="@id/imageView2" android:layout_width="fill_parent" android:layout_height="1.0dip" android:src="@drawable/listline" android:scaleType="fitXY" />
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:gravity="center" android:layout_gravity="center" android:id="@id/textView2" android:paddingLeft="10.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/btname" android:layout_weight="1.0" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="#ffffffff" android:gravity="center" android:layout_gravity="center" android:id="@id/btname" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+        <LinearLayout android:id="@id/renamelayout" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.5">
+            <ImageButton android:layout_gravity="center" android:id="@id/renamebtn" android:background="#00000000" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/enter_selector" />
+        </LinearLayout>
+    </LinearLayout>
+    <ImageView android:id="@id/imageView4" android:layout_width="fill_parent" android:layout_height="1.0dip" android:src="@drawable/listline" android:scaleType="fitXY" />
+    <LinearLayout android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:gravity="center" android:layout_gravity="center" android:id="@id/textView1" android:paddingLeft="10.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/audiomode" android:layout_weight="1.0" />
+        <LinearLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.1" />
+        <RadioGroup android:layout_gravity="center" android:orientation="horizontal" android:id="@id/radioGroup" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.4">
+            <RadioButton android:id="@id/radioauto" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="true" android:text="@string/auto" android:layout_weight="1.0" />
+            <RadioButton android:id="@id/radio8k" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/using8k" android:layout_weight="1.0" />
+            <RadioButton android:id="@id/radio16k" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/using16k" android:layout_weight="1.0" />
+        </RadioGroup>
+    </LinearLayout>
+    <ImageView android:id="@id/imageView5" android:layout_width="fill_parent" android:layout_height="1.0dip" android:src="@drawable/listline" android:scaleType="fitXY" />
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:gravity="center" android:layout_gravity="center" android:id="@id/textView5" android:paddingLeft="10.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/repair" android:layout_weight="1.0" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="#ffffffff" android:gravity="center" android:layout_gravity="center" android:id="@id/repair" android:paddingLeft="10.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/start" android:layout_weight="1.0" />
+        <LinearLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.5">
+            <ProgressBar android:layout_gravity="center" android:id="@id/progressBar1" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?android:attr/progressBarStyleSmall" />
+        </LinearLayout>
+    </LinearLayout>
+    <ImageView android:id="@id/imageView6" android:layout_width="fill_parent" android:layout_height="1.0dip" android:src="@drawable/listline" android:scaleType="fitXY" />
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="center" android:layout_gravity="center" android:id="@id/btstatus" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

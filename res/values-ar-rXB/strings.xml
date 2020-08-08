@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">‏‮BTPhone‬‏</string>
+    <string name="btset">‏‮Bluetooth‬‏ ‏‮Setting‬‏</string>
+    <string name="btname">‏‮My‬‏ ‏‮Name:‬‏</string>
+    <string name="conndev">‏‮Bluetooth‬‏ ‏‮Status:‬‏</string>
+    <string name="rename">‏‮Rename‬‏ ‏‮My‬‏ ‏‮Bluetooth‬‏</string>
+    <string name="ok">‏‮OK‬‏</string>
+    <string name="cancel">‏‮Cancel‬‏</string>
+    <string name="none">‏‮None‬‏</string>
+    <string name="audiomode">‏‮Audio‬‏ ‏‮Mode:‬‏</string>
+    <string name="auto">‏‮Auto‬‏</string>
+    <string name="using8k">‏‮8k‬‏</string>
+    <string name="using16k">‏‮16k‬‏</string>
+    <string name="resync">‏‮Sync‬‏ ‏‮Contacts‬‏</string>
+    <string name="calllog">‏‮Call‬‏ ‏‮Log‬‏</string>
+    <string name="dialing">‏‮Dialing‬‏ ‏‮now...‬‏</string>
+    <string name="clearlog">‏‮Clear‬‏</string>
+    <string name="out">‏‮↗‬‏</string>
+    <string name="in">‏‮↙‬‏</string>
+    <string name="inactive">‏‮Disconnected.‬‏ ‏‮Call‬‏ ‏‮functions‬‏ ‏‮disabled!‬‏</string>
+    <string name="active">‏‮Connected‬‏</string>
+    <string name="dialpad">‏‮Dialpad‬‏</string>
+    <string name="contacts">‏‮Contacts‬‏</string>
+    <string name="setting">‏‮Setting‬‏</string>
+    <string name="prompt">‏‮Please‬‏ ‏‮use‬‏ ‏‮your‬‏ ‏‮phone‬‏ ‏‮to‬‏ ‏‮search‬‏ ‏‮%s‬‏ ‏‮and‬‏ ‏‮connect‬‏ ‏‮it.‬‏</string>
+    <string name="repair">‏‮Pairing‬‏ ‏‮Reset‬‏</string>
+    <string name="start">‏‮Click‬‏ ‏‮to‬‏ ‏‮start‬‏</string>
+    <string name="syncontacts">‏‮Contacs‬‏ ‏‮is‬‏ ‏‮updating‬‏</string>
+    <string name="syncerr">‏‮Updating‬‏ ‏‮contacs‬‏ ‏‮failed,‬‏ ‏‮please‬‏ ‏‮retry‬‏ ‏‮it‬‏ ‏‮later‬‏ ‏‮or‬‏ ‏‮reconnect‬‏ ‏‮it‬‏ ‏‮and‬‏ ‏‮make‬‏ ‏‮sure‬‏ ‏‮contacts‬‏ ‏‮sharing‬‏ ‏‮is‬‏ ‏‮enabled‬‏ ‏‮from‬‏ ‏‮your‬‏ ‏‮phone!‬‏</string>
+    <string name="num1">‏‮1‬‏</string>
+    <string name="num2">‏‮2‬‏</string>
+    <string name="num3">‏‮3‬‏</string>
+    <string name="num4">‏‮4‬‏</string>
+    <string name="num5">‏‮5‬‏</string>
+    <string name="num6">‏‮6‬‏</string>
+    <string name="num7">‏‮7‬‏</string>
+    <string name="num8">‏‮8‬‏</string>
+    <string name="num9">‏‮9‬‏</string>
+    <string name="numstar">‏‮*‬‏</string>
+    <string name="num0">‏‮‬‏ ‏‮0+‬‏</string>
+    <string name="numpound">‏‮#‬‏</string>
+    <string name="notwork">‏‮Call‬‏ ‏‮it‬‏ ‏‮not‬‏ ‏‮working‬‏ ‏‮when‬‏ ‏‮FM‬‏ ‏‮enabled‬‏</string>
+</resources>

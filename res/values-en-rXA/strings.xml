@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">[βŢÞĥöñé one two]</string>
+    <string name="btset">[βļûéţööţĥ Šéţţîñĝ one two three]</string>
+    <string name="btname">[Ḿý Ñåḿé: one two]</string>
+    <string name="conndev">[βļûéţööţĥ Šţåţûš: one two three]</string>
+    <string name="rename">[Ŕéñåḿé Ḿý βļûéţööţĥ one two three]</string>
+    <string name="ok">[ÖĶ one]</string>
+    <string name="cancel">[Çåñçéļ one two]</string>
+    <string name="none">[Ñöñé one]</string>
+    <string name="audiomode">[Åûðîö Ḿöðé: one two]</string>
+    <string name="auto">[Åûţö one]</string>
+    <string name="using8k">[8ķ one]</string>
+    <string name="using16k">[16ķ one]</string>
+    <string name="resync">[Šýñç Çöñţåçţš one two three]</string>
+    <string name="calllog">[Çåļļ Ļöĝ one two]</string>
+    <string name="dialing">[Ðîåļîñĝ ñöŵ... one two three]</string>
+    <string name="clearlog">[Çļéåŕ one two]</string>
+    <string name="out">[↗ one]</string>
+    <string name="in">[↙ one]</string>
+    <string name="inactive">[Ðîšçöññéçţéð. Çåļļ ƒûñçţîöñš ðîšåɓļéð¡ one two three four five]</string>
+    <string name="active">[Çöññéçţéð one two]</string>
+    <string name="dialpad">[Ðîåļþåð one two]</string>
+    <string name="contacts">[Çöñţåçţš one two]</string>
+    <string name="setting">[Šéţţîñĝ one two]</string>
+    <string name="prompt">[Þļéåšé ûšé ýöûŕ þĥöñé ţö šéåŕçĥ »%s« åñð çöññéçţ îţ. one two three four five six seven eight nine ten eleven]</string>
+    <string name="repair">[Þåîŕîñĝ Ŕéšéţ one two three]</string>
+    <string name="start">[Çļîçķ ţö šţåŕţ one two three]</string>
+    <string name="syncontacts">[Çöñţåçš îš ûþðåţîñĝ one two three]</string>
+    <string name="syncerr">[Ûþðåţîñĝ çöñţåçš ƒåîļéð, þļéåšé ŕéţŕý îţ ļåţéŕ öŕ ŕéçöññéçţ îţ åñð ḿåķé šûŕé çöñţåçţš šĥåŕîñĝ îš éñåɓļéð ƒŕöḿ ýöûŕ þĥöñé¡ one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twent]</string>
+    <string name="num1">[1 one]</string>
+    <string name="num2">[2 one]</string>
+    <string name="num3">[3 one]</string>
+    <string name="num4">[4 one]</string>
+    <string name="num5">[5 one]</string>
+    <string name="num6">[6 one]</string>
+    <string name="num7">[7 one]</string>
+    <string name="num8">[8 one]</string>
+    <string name="num9">[9 one]</string>
+    <string name="numstar">[* one]</string>
+    <string name="num0">[ 0+ one]</string>
+    <string name="numpound">[# one]</string>
+    <string name="notwork">[Çåļļ îţ ñöţ ŵöŕķîñĝ ŵĥéñ FḾ éñåɓļéð one two three four five six seven eight]</string>
+</resources>

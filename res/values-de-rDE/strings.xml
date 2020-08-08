@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="btset">Einstellungen</string>
+    <string name="btname">Name:</string>
+    <string name="conndev">Bluetooth-Status:</string>
+    <string name="rename">Bluetooth umbenennen</string>
+    <string name="ok">ok</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="none">Nein</string>
+    <string name="audiomode">Audio-Modus:</string>
+    <string name="auto">Auto</string>
+    <string name="using8k">8k</string>
+    <string name="using16k">16k</string>
+    <string name="resync">Kontakte synchronisieren</string>
+    <string name="calllog">Anrufliste</string>
+    <string name="dialing">Jetzt wählen...</string>
+    <string name="clearlog">löschen</string>
+    <string name="out">Eingehende Anrufe</string>
+    <string name="in">Ausgehende Anrufe</string>
+    <string name="inactive">Kein Bluetooth-Geräten</string>
+    <string name="active">Gerät Verbunden</string>
+    <string name="dialpad">Tastatur</string>
+    <string name="contacts">Kontakte</string>
+    <string name="setting">Einstellungen</string>
+    <string name="prompt">Bitte verwenden Sie Ihr Telefon,um %s zu suchen und eine Verbindung herzustellen.</string>
+    <string name="repair">Reparieren:</string>
+    <string name="start">Klicken Sie, um zu beginnen</string>
+    <string name="syncontacts">Kontakte werden aktualisiert</string>
+    <string name="syncerr">Das Aktualisieren von Kontakten ist fehlgeschlagen. Bitte versuchen Sie es später erneut oder verbinden Sie es erneut und stellen Sie sicher, dass die Kontaktfreigabe von Ihrem Telefon aus aktiviert ist!</string>
+</resources>

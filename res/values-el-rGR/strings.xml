@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Τηλέφωνο Bluetooth</string>
+    <string name="btset">Ρυθμίσεις Bluetooth</string>
+    <string name="btname">Το όνομά μου:</string>
+    <string name="conndev">Κατάσταση Bluetooth:</string>
+    <string name="rename">Μετονομασία</string>
+    <string name="ok">Εντάξει</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="none">Δεν υπάρχει</string>
+    <string name="audiomode">Λειτουργία ήχου:</string>
+    <string name="auto">Αυτόματη</string>
+    <string name="using8k">8k</string>
+    <string name="using16k">16k</string>
+    <string name="resync">Συγχρονισμός επαφών</string>
+    <string name="calllog">Ιστορικό κλήσεων</string>
+    <string name="dialing">Τηλεφωνική κλήση...</string>
+    <string name="clearlog">Αδειάστε</string>
+    <string name="out">↗</string>
+    <string name="in">↙</string>
+    <string name="inactive">Η συσκευή αποσυνδέεται και η λειτουργία κλήσης είναι απενεργοποιημένη!</string>
+    <string name="active">Η σύνδεση είναι επιτυχής</string>
+    <string name="dialpad">Πληκτρολόγιο κλήσης</string>
+    <string name="contacts">Τηλεφωνικός κατάλογος</string>
+    <string name="setting">Ρύθμιση</string>
+    <string name="prompt">Κάντε αναζήτηση μέσω κινητού τηλεφώνου %s και σύνδεση.</string>
+    <string name="repair">Επαναλήψεις</string>
+    <string name="start">Κάντε κλικ για να ξεκινήσετε</string>
+    <string name="syncontacts">Συγχρονισμός επαφών</string>
+    <string name="syncerr">Ο συγχρονισμός των επαφών απέτυχε, δοκιμάστε ξανά αργότερα ή επανασυνδεθείτε και επιβεβαιώστε την πλευρά του τηλεφώνου για να επιτρέψετε την ανταλλαγή επαφών!</string>
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="num4">4</string>
+    <string name="num5">5</string>
+    <string name="num6">6</string>
+    <string name="num7">7</string>
+    <string name="num8">8</string>
+    <string name="num9">9</string>
+    <string name="numstar">*</string>
+    <string name="num0">" 0+"</string>
+    <string name="numpound">\#</string>
+</resources>

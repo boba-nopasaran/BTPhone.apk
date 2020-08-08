@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BTPhone</string>
+    <string name="btset">การตั้งค่าบลูทูธ</string>
+    <string name="btname">ชื่อของฉัน:</string>
+    <string name="conndev">สถานะบลูทูธ:</string>
+    <string name="rename">ตั้งชื่อใหม่บลูทูธของฉัน</string>
+    <string name="ok">ตกลง</string>
+    <string name="cancel">อื่นๆ</string>
+    <string name="none">ไม่มี</string>
+    <string name="audiomode">โหมดออดิโอ:</string>
+    <string name="auto">อัตโนมัติ</string>
+    <string name="using8k">8k</string>
+    <string name="using16k">16k</string>
+    <string name="resync">ซิงค์รายชื่อในสมุดโทรศัพท์</string>
+    <string name="calllog">โทรเข้าสู่ระบบ</string>
+    <string name="dialing">กำลังโทร...</string>
+    <string name="clearlog">เคลียร์</string>
+    <string name="out">↗</string>
+    <string name="in">↙</string>
+    <string name="inactive">ตัดการเชื่อมต่อแล้ว ฟังก์ชันการโทรถูกปิด</string>
+    <string name="active">เชื่อมต่อแล้ว</string>
+    <string name="dialpad">แป้นหมายเลข</string>
+    <string name="contacts">สมุดโทรศัพท์</string>
+    <string name="setting">ตั้งค่า</string>
+    <string name="prompt">กรุณาใช้โทรศัพท์ของคุณเพื่อค้นหา %sและติดต่อ</string>
+    <string name="repair">รีเซ็ตการจับคู่</string>
+    <string name="start">คลิกเพื่อเริ่มต้น</string>
+    <string name="syncontacts">กำลังอัพเดทรายชื่อผู้ติดต่อ</string>
+    <string name="syncerr">อัพเดทรายชื่อผู้ติดต่อล้มเหลว โปรดลองอีกครั้งหรือเชื่อมต่อใหม่ทีหลังและรับรองแชร์รายชื่อผู้ติดต่อจากโทรศัพท์ของคุณถูกเปิดใช้งานได้</string>
+</resources>

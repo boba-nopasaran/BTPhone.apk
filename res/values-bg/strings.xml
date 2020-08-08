@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BTPhone</string>
+    <string name="btset">Bluetooth Настройки</string>
+    <string name="btname">Име:</string>
+    <string name="conndev">Bluetooth Статус:</string>
+    <string name="rename">Преименуване Bluetooth</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Отказ</string>
+    <string name="none">Няма</string>
+    <string name="audiomode">Аудио Режим:</string>
+    <string name="auto">Auto</string>
+    <string name="using8k">8k</string>
+    <string name="using16k">16k</string>
+    <string name="resync">Синхр.контакти</string>
+    <string name="calllog">Лог на разговори</string>
+    <string name="dialing">Набиране...</string>
+    <string name="clearlog">Изчистване</string>
+    <string name="out">↗</string>
+    <string name="in">↙</string>
+    <string name="inactive">Изключен. Разговорите са деактивирани!</string>
+    <string name="active">Свързан</string>
+    <string name="dialpad">Клавиатура</string>
+    <string name="contacts">Контакти</string>
+    <string name="setting">Настройки</string>
+    <string name="prompt">Моля потърсете от телефона %s и го свържете.</string>
+    <string name="repair">Ресет-сдвояване</string>
+    <string name="start">Стартиране</string>
+    <string name="syncontacts">Актуализация контакти</string>
+    <string name="syncerr">Грешка при актуализацията, моля опитайте по-късно и се уверете, че споделянето на контакти е активирано на телефона!</string>
+</resources>

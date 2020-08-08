@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/calllogitem" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="36.0px" android:gravity="center" android:id="@id/logtype" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.2" />
+    <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="60.0dip" android:layout_weight="1.0">
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="26.0px" android:gravity="center" android:id="@id/logname" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.2" />
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="24.0px" android:gravity="center" android:id="@id/lognumber" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    </LinearLayout>
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="24.0px" android:gravity="center" android:id="@id/logdate" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+</LinearLayout>

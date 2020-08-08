@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/call_info_board" android:background="@drawable/rightbg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false" android:layout_weight="5.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/lable_linear" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.8">
+        <TextView android:textSize="@dimen/numname_size" android:textStyle="bold" android:layout_gravity="center" android:id="@id/number" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_weight="0.7" />
+        <Chronometer android:textSize="@dimen/chronometer_size" android:layout_gravity="center" android:id="@id/chronometer" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_weight="0.3" />
+    </LinearLayout>
+    <FrameLayout android:id="@id/callingfrag" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginLeft="40.0dip" android:layout_marginRight="40.0dip" android:layout_weight="3.2">
+        <LinearLayout android:id="@id/optionview" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+            <ImageButton android:layout_gravity="center" android:id="@id/mutebtn" android:background="@drawable/mute_selector" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+            <ImageButton android:layout_gravity="center" android:id="@id/dtmfbtn" android:background="@drawable/btn_selector" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_margin="2.0dip" android:src="@drawable/dtmfpad_selector" android:layout_weight="1.0" />
+            <ImageButton android:layout_gravity="center" android:id="@id/speakerbtn" android:background="@drawable/btn_selector" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_margin="2.0dip" android:src="@drawable/speaker_selector" android:layout_weight="1.0" />
+            <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        </LinearLayout>
+    </FrameLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/ctrl_linear" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <LinearLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <ImageButton android:layout_gravity="center" android:id="@id/acceptbtn" android:background="@drawable/dial_selector" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_margin="5.0dip" android:layout_weight="1.6" />
+        <ImageButton android:layout_gravity="center" android:id="@id/hangupbtn" android:background="@drawable/hangup_selector" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_margin="5.0dip" android:layout_weight="1.6" />
+        <LinearLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <ImageButton android:layout_gravity="center" android:id="@id/hidebtn" android:background="@drawable/btn_selector" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="5.0dip" android:src="@drawable/hide" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
