@@ -4796,6 +4796,12 @@
     move-result-object v1
 
     iput-object v1, v11, Lcom/car/btphone/BTContact;->name:Ljava/lang/String;
+	
+#by boba 31.10.2019
+#national search
+invoke-virtual {v1}, Ljava/lang/String;->toLowerCase()Ljava/lang/String;
+move-result-object v1
+iput-object v1, v11, Lcom/car/btphone/BTContact;->sort_key:Ljava/lang/String;
 
     const-string v1, "data1"
 
@@ -4831,7 +4837,9 @@
 
     move-result-object v1
 
-    iput-object v1, v11, Lcom/car/btphone/BTContact;->sort_key:Ljava/lang/String;
+#by boba 31.10.2019
+#national search
+#    iput-object v1, v11, Lcom/car/btphone/BTContact;->sort_key:Ljava/lang/String;
 
     iget-object v1, v11, Lcom/car/btphone/BTContact;->name:Ljava/lang/String;
 

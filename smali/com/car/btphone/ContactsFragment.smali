@@ -435,7 +435,11 @@
     return-void
 
     :cond_4
-    invoke-static {p1}, Lcom/car/common/pinyin/HanziToPinyin;->hanzi2Pinyin(Ljava/lang/String;)Ljava/lang/String;
+	
+#by boba 31.10.2019
+#national search
+#    invoke-static {p1}, Lcom/car/common/pinyin/HanziToPinyin;->hanzi2Pinyin(Ljava/lang/String;)Ljava/lang/String;
+invoke-virtual {p1}, Ljava/lang/String;->toLowerCase()Ljava/lang/String;
 
     move-result-object v5
 
