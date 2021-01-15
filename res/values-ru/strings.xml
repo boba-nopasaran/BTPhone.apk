@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="btset">Настройки</string>
+    <string name="btname">Мое имя:</string>
+    <string name="conndev">Статус:</string>
+    <string name="rename">Переименовать Bluetooth</string>
+    <string name="ok">Нажмите ОК</string>
+    <string name="cancel">Отмена</string>
+    <string name="none">Нет</string>
+    <string name="audiomode">Аудиорежим:</string>
+    <string name="auto">Автоматически</string>
+    <string name="using8k">8k</string>
+    <string name="using16k">16k</string>
+    <string name="resync">Синхронизация контактов</string>
+    <string name="calllog">вызовов</string>
+    <string name="dialing">Набор номера...</string>
+    <string name="clearlog">Очистить лог</string>
+    <string name="out">Исходящие</string>
+    <string name="in">Входящие</string>
+    <string name="inactive">Отмена соединения. Вызов сограниченными функциями!</string>
+    <string name="active">Соединение установлено</string>
+    <string name="dialpad">Клавиатура</string>
+    <string name="contacts">Контакты</string>
+    <string name="setting">Настройки</string>
+    <string name="prompt">Пожалуйста, используйте поиск и подключение к мобильному %s.</string>
+    <string name="repair">Переподключить :</string>
+    <string name="start">Чтобы начать</string>
+    <string name="syncontacts">Синхронизация контактов</string>
+    <string name="syncerr">Синхронизация контактов не удалась, попробуйте еще раз или подключите телефон и подтвердите, разрешает ли клиент обмен контактами!</string>
+</resources>
