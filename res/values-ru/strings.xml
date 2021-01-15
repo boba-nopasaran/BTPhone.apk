@@ -24,7 +24,7 @@
     <string name="contacts">Контакты</string>
     <string name="setting">Настройки</string>
     <string name="prompt">Пожалуйста, используйте поиск и подключение к мобильному %s.</string>
-    <string name="repair">Переподключить :</string>
+    <string name="repair">Переподключить:</string>
     <string name="start">Начать</string>
     <string name="syncontacts">Синхронизация контактов</string>
     <string name="syncerr">Синхронизация контактов не удалась, попробуйте еще раз или подключите телефон и подтвердите обмен контактами!</string>
