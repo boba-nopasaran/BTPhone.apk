@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="btset">Налаштування</string>
+    <string name="btname">Ім'я пристрою:</string>
+    <string name="conndev">Статус Bluetooth:</string>
+    <string name="rename">Перейменувати Bluetooth</string>
+    <string name="ok">ОК</string>
+    <string name="cancel">Відміна</string>
+    <string name="none">Ні</string>
+    <string name="audiomode">Аудіорежим:</string>
+    <string name="auto">Автоматично</string>
+    <string name="using8k">8k</string>
+    <string name="using16k">16k</string>
+    <string name="resync">Синхронізація контактів</string>
+    <string name="calllog">Виклики</string>
+    <string name="dialing">Набір номера...</string>
+    <string name="clearlog">Очистити</string>
+    <string name="out">Вихідні</string>
+    <string name="in">Вхідні</string>
+    <string name="inactive">Відключено. Дзвінки не доступні!</string>
+    <string name="active">З'єднання встановленно</string>
+    <string name="dialpad">Клавіатура</string>
+    <string name="contacts">Контакти</string>
+    <string name="setting">Налаштування</string>
+    <string name="prompt">Будь ласка, використовуйте пошук і підключення до мобільного %s.</string>
+    <string name="repair">Перепідключити:</string>
+    <string name="start">Почати</string>
+    <string name="syncontacts">Синхронізація контактів</string>
+    <string name="syncerr">Синхронізація контактів не вдалась, спробуйте ще раз або підключіть телефон і підтвердіть обмін контактами!</string>
+    <string name="notwork">Виклики недоступні коли ввімкнено FM</string>
+</resources>
