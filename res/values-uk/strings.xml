@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Bluetooth</string>
     <string name="btset">Налаштування</string>
-    <string name="btname">Ім'я пристрою:</string>
+    <string name="btname">Ім\'я пристрою:</string>
     <string name="conndev">Статус Bluetooth:</string>
     <string name="rename">Перейменувати Bluetooth</string>
     <string name="ok">ОК</string>
@@ -19,7 +19,7 @@
     <string name="out">Вихідні</string>
     <string name="in">Вхідні</string>
     <string name="inactive">Відключено. Дзвінки не доступні!</string>
-    <string name="active">З'єднання встановленно</string>
+    <string name="active">З\'єднання встановленно</string>
     <string name="dialpad">Клавіатура</string>
     <string name="contacts">Контакти</string>
     <string name="setting">Налаштування</string>
